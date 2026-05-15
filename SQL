@@ -1,4 +1,0 @@
-basic-select-queries.sql
-joins-practice.sql
-filtering-and-grouping.sql
-notes.md
