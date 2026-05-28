@@ -1,0 +1,26 @@
+### Issue Summary
+Description of what the problem is.
+
+### Environment
+- **OS/Platform:** [e.g., Windows 11, Ubuntu 22.04, iOS 16]
+- **Version/Branch:** [e.g., v1.4.2, main branch]
+- **Dependencies:** [e.g., Node v20.12.0, Python 3.11]
+
+### 🔍 Steps to Reproduce
+Steps to recreate the behavior:
+1. Go to '...'
+2. Click on '...'
+3. Scroll down to '...'
+4. See error
+
+### Expected vs. Actual Behavior
+- **Expected:** What you expected to happen.
+- **Actual:** What actually happened (include screenshots or exact error messages).
+
+### 📋 Error Logs & Stack Traces
+```text
+Paste any relevant console logs, terminal outputs, or stack traces here.
+```
+
+### 💡 Additional Context
+Add any other context about the problem here (e.g., recent changes made, screenshots).
